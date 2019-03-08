@@ -2,17 +2,17 @@ These are the flames I created and submitted to the sheep server.
 
 Pulled from [http://electricsheep.com/archives/generation-244/best.cgi?menu=designer&p=25 | the archive].
 
-  *  [./2849.wiki | 2849] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=2849 | source])
-  *  [./3076.wiki | 3076] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=3076 | source])
-  *  [./3699.wiki | 3699] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=3699 | source])
-  *  [./33565.wiki | 33565] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=33565 | source])
-  *  [./44878.wiki | 44878] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=44878 | source])
-  *  [./44930.wiki | 44930] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=44930 | source])
-  *  [./45006.wiki | 45006] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=45006 | source])
-  *  [./45753.wiki | 45753] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=45753 | source])
-  *  [./48973.wiki | 48973] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=48973 | source])
-  *  [./76681.wiki | 76681] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=76681 | source])
-  *  [./76714.wiki | 76714] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=76714 | source])
-  *  [./76859.wiki | 76859] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=76859 | source])
-  *  [./82184.wiki | 82184] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=82184 | source])
-  *  [./82221.wiki | 82221] ([http://electricsheep.com/archives/generation-244/dead.cgi?id=82221 | source])
+  *  [./2849.wiki | 2849]
+  *  [./3076.wiki | 3076]
+  *  [./3699.wiki | 3699]
+  *  [./33565.wiki | 33565]
+  *  [./44878.wiki | 44878]
+  *  [./44930.wiki | 44930]
+  *  [./45006.wiki | 45006]
+  *  [./45753.wiki | 45753]
+  *  [./48973.wiki | 48973]
+  *  [./76681.wiki | 76681]
+  *  [./76714.wiki | 76714]
+  *  [./76859.wiki | 76859]
+  *  [./82184.wiki | 82184]
+  *  [./82221.wiki | 82221]
