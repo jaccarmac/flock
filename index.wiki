@@ -2,9 +2,9 @@ These are the flames I created and submitted to the sheep server.
 
 Pulled from [http://electricsheep.com/archives/generation-244/best.cgi?menu=designer&p=25 | the archive].
 
-  *  [./2849.wiki | 2849]
-  *  [./3076.wiki | 3076]
-  *  [./3699.wiki | 3699]
+  *  [./02849.wiki | 2849]
+  *  [./03076.wiki | 3076]
+  *  [./03699.wiki | 3699]
   *  [./33565.wiki | 33565]
   *  [./44878.wiki | 44878]
   *  [./44930.wiki | 44930]
